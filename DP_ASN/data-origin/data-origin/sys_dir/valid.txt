@@ -1,0 +1,16 @@
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al0N27Sc27/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al0N36Sc36/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al14N27Sc13/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al16N27Sc11/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al18N27Sc9/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al18N36Sc18/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al20N27Sc7/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al20N36Sc16/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al22N27Sc5/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al22N36Sc14/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al24N36Sc12/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al26N36Sc10/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al27N27Sc0/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al28N36Sc8/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al30N36Sc6/valid
+/personal/wurtzite/AlScN/8-restart-se2/restart/data/data/Al36N36Sc0/valid
